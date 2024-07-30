@@ -3,7 +3,7 @@
 
 - Atualmente estou trabalhando no projeto: 
 
-- Atualmente estou aprendendo **JavaScript, TypeScript, React, Node.js, .NET, MongoDB.**
+- Atualmente estou aprendendo **JavaScript, TypeScript, React, Node.js, .NET e MongoDB.**
 
 - Me pergunte sobre **Softskills, comercial, liderança de equipes e relacionamentos interpessoais.**
 
