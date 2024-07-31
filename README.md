@@ -1,8 +1,6 @@
 <h1 align="center">Olá, me chamo Bruno Haertel</h1>
 <h3 align="center"> Desenvolvedor de Software | Full-Stack | JavaScript | Node.js | React </h3>
 
-- Atualmente estou trabalhando no projeto: 
-
 - Atualmente estou aprendendo **JavaScript, TypeScript, React, Node.js, .NET e MongoDB.**
 
 - Me pergunte sobre **Softskills, comercial, liderança de equipes e relacionamentos interpessoais.**
