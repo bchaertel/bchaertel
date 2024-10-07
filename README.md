@@ -3,7 +3,7 @@
 
 - Atualmente estou aprendendo **.NET, VUE.js e SiteCore.**
 
-- Me pergunte sobre **Me pergunte sobre Softskills, comercial, liderança de equipes e desenvolvimento Full-stack**
+- Me pergunte sobre **Softskills, comercial, liderança de equipes e desenvolvimento Full-stack**
 
 - Você me acha através do e-mail **brunohaerteldev@gmail.com**
 
