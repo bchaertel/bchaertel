@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Bruno Haertel</h1>
 <h3 align="center"> Desenvolvedor de Software | Full-Stack | TypeScript |  .NET | Node.js |  React | Vue.js </h3>
 
-- Atualmente estou aprendendo ** C#,.NET, VUE.js e SiteCore.**
+- Atualmente estou aprendendo ** C#, .NET, VUE.js e SiteCore.**
 
 - Trabalho na empresa dti digital.
 
