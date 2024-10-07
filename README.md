@@ -1,9 +1,11 @@
 <h1 align="center">Olá, me chamo Bruno Haertel</h1>
-<h3 align="center"> Desenvolvedor de Software | Full-Stack | JavaScript | Node.js | React </h3>
+<h3 align="center"> Desenvolvedor de Software | Full-Stack | TypeScript |  .NET | Node.js |  React | Vue.js </h3>
 
-- Atualmente estou aprendendo **JavaScript, TypeScript, React, Node.js, .NET e MongoDB.**
+- Atualmente estou aprendendo ** C#,.NET, VUE.js e SiteCore.**
 
-- Me pergunte sobre **Softskills, comercial, liderança de equipes e relacionamentos interpessoais.**
+- Trabalho na empresa dti digital.
+
+- Me pergunte sobre **Softskills, comercial, liderança de equipes e desenvolvimento Full-stack**
 
 - Você me acha através do e-mail **brunohaerteldev@gmail.com**
 
